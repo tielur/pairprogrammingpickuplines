@@ -1,2 +1,2 @@
-# stefankofied
-Where things come to get stefankofied.
+# pair programming pickup lines
+Never code alone
